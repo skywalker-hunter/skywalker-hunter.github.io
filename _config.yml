@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://skywalker-hunter.github.io
+title: Confabulation
+email: cs13b1008@iith.ac.in
+author: Sreekar Reddy
+description: I am a Computer Science senior from IIT-H. I am passionate about Machine Learning and its cross-domain utility within CS in Compilers and Networks. During my downtime, I read and write reviews of speculative sci-fi and high fantasy novels.
+paginate: 5
+google_analytics: 
